@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
 const cors = require('cors')
+const user = require("./routeComponent/user")
 
 app.use(cors({
     origin: '*'
