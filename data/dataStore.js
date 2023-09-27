@@ -619,7 +619,7 @@ const data=   [
     {
         id: "78",
         Category: "Home-Latest",
-        heading: "Empowering Agriculture Entrepreneurs: LadyAgri and Women-Focused Investments",
+        heading: "Empowering Agriculture Entrepreneurs: LadyAgri.",
         image: "https://i0.wp.com/pixahive.com/wp-content/uploads/2021/02/Agriculture-land-and-sunshine-336019-pixahive.jpg?fit=2560%2C1440&ssl=1",
         SmallContent: "LadyAgri Impact Investment Hub is trying to transform the future of agri-business by empowering women-led projects and investments. ",
         LargeContent: "LadyAgri Impact Investment Hub is trying to transform the future of agri-business by empowering women-led projects and investments. Through initiatives aimed to support agri-entrepreneurs in Africa and Small Island Developing States, LadyAgri brings together women entrepreneurs, innovators, investors, philanthropists, and donors.“When you invest in women, you get triple or more of the impact,” Hilary Barry, Secretary General of LadyAgri, tells Food Tank. “When a project is finished, more likely than not, if it’s women driven a project it will still continue even after external funding has come to a close” Barry founded LadyAgri alongside Aida Axelson Bakri and Ayélé Sikavi Gabiam. Together, they have created a team of 25 individuals from around the world.LadyAgri is built on three pillars: technical assistance; access to agri-finance; and access to markets, equipment, and technology. By providing technical capacity building, LadyAgri hopes to support women at all phases of their growth cycle. They train women agri-entrepreneurs to source responsibly and sustainably, confront unprecedented challenges such as the climate crisis, boost local production, and meet market demands."
