@@ -678,7 +678,7 @@ const data=   [
         Category: "Home-Top-Post-Latest",
         heading: "'Hero' Hertfordshire police dog Finn dies aged 14",
         image: "https://ichef.bbci.co.uk/news/800/cpsprodpb/7346/production/_121001592_b7f2194b-799e-456d-9950-566511187407.jpg.webp",
-        SmallContent: "PD Finn suffered near-fatal injuries in 2016 when he confronted an armed suspect in Stevenage, Hertfordshire, while protecting PC Dave Wardell.He recovered and returned to duty.",
+        SmallContent: "PD Finn suffered near-fatal injuries in 2016 when he confronted an armed suspect in Stevenage, Hertfordshire..",
         LargeContent: "PD Finn suffered near-fatal injuries in 2016 when he confronted an armed suspect in Stevenage, Hertfordshire, while protecting PC Dave Wardell.He recovered and returned to duty, before retiring in 2017. He also appeared on Britain's Got Talent and a new law in his name was introduced.A Facebook post released on behalf of PC Wardell and his wife Gemma said Finn passed away peacefully in his sleep on Thursday. Thin Blue Paw Foundation, a national charity that supports retired police dogs, said Finn left a huge legacy behind. After a campaign for a change in the law regarding injuries to police support animals was set up, the new Animal Welfare (Service Animals) Act - known as Finn's Law - was introduced in 2019. A Facebook post released on behalf of PC Wardell and his wife Gemma said Finn passed away peacefully in his sleep on Thursday."
     },
     {
