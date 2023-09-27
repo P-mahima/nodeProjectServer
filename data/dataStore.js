@@ -694,7 +694,7 @@ const data=   [
         Category: "Home-Top-Post-Latest",
         heading: "Climate change lures rare bird to Kent marshland",
         image: "https://ichef.bbci.co.uk/news/800/cpsprodpb/1205/live/f5e14bf0-27de-11ee-9ed5-9b4c562e8a06.jpg.webp",
-        SmallContent: "Rosie Blunt and Yvette Austin. One of the UK's rarest birds is raising a family in Kent after escaping record temperatures further south, nature experts say.",
+        SmallContent: "Rosie Blunt and Yvette Austin. One of the UK's rarest birds is raising a family in Kent.",
         LargeContent: "One of the UK's rarest birds is raising a family in Kent after escaping record temperatures further south, nature experts say. Four black-winged stilt chicks have recently fledged in Worth Marshes, near Sandwich, after a pair of the birds arrived from Africa in the spring. It is believed the species is flying further north as climate change causes its natural habitat in countries like Spain to become too hot. The wetland habitat is so incredibly important for them to breed,said Vicki Peaple, a warden for the Royal Society for the Protection of Birds (RSPB) in Worth Marshes. The nature reserve has been especially prepared to welcome black-winged stilts, which wildlife presenter Bill Oddie named one of the worlds most elegant birds."
     }
 
